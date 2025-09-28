@@ -253,6 +253,8 @@
   margin-bottom: 0;
 }
 
+/* Footer */
+
 .footer {
   display: flex;
   justify-content: space-between;
@@ -267,7 +269,14 @@
   width: 240px;
 }
 
+/* Socials */
+
 .social-item-list {
   display: flex;
   gap: 48px;
+}
+
+.social-icon {
+  width: 48px;
+  height: 48px;
 }
